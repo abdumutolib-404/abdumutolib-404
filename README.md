@@ -10,6 +10,7 @@
 - JavaScript 🌐
 - HTML / CSS 🎨
 - Git & GitHub 🧠
+- React ⚛
 
 ---
 

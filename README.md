@@ -11,7 +11,7 @@
 - HTML / CSS 🎨
 - Git & GitHub 🧠
 - React ⚛️
-
+- Node.js(Express.js)
 ---
 
 ### 📊 Statistikalar:

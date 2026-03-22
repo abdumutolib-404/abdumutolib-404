@@ -21,5 +21,5 @@
 ---
 
 ### 📫 Bog‘lanish:
-- Telegram: [MRABDUMUTOLIB Developer](https://t.me/mrabdumutolib_dev)
+- Telegram: [MRABDUMUTOLIB Developer](https://t.me/abdumutolib_o10)
 - Email: abdumutolib00@gmail.com
